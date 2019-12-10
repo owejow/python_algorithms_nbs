@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Recursion Notes and Algorithms
+      title: Title
       url: /recursion
     output: web
     title: python_algorithms_nbs
