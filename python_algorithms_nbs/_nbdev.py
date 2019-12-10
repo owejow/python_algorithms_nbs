@@ -6,6 +6,7 @@ index = {"factorial": "04_recursion.ipynb",
          "draw_line": "04_recursion.ipynb",
          "draw_interval": "04_recursion.ipynb",
          "draw_ruler": "04_recursion.ipynb",
+         "binary_search": "04_recursion.ipynb",
          "disk_usage": "04_recursion.ipynb"}
 
 modules = ["recursion.py"]
